@@ -12,3 +12,8 @@ p{
   color: #9b2226;
 
 }
+
+table, td, tr{
+
+  border: 2px solid #ffc300;
+}
